@@ -109,7 +109,7 @@ print(f"Calinski-Harabasz Index: {calinski_harabasz_score}")
 davies_bouldin_score = metrics.davies_bouldin_score(data, c)
 print(f"Davies-Bouldin Index: {davies_bouldin_score}")
 ```
-**Outputs:**  
+# Outputs  
 **Silhouette Coefficient: 0.559**  
 **Calinski-Harabasz Index: 40641.45**  
 **Davies-Bouldin Index: 0.604**  
