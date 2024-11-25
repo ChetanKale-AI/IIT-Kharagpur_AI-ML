@@ -37,19 +37,19 @@ This repository contains a collection of Jupyter notebooks and other resources d
     - Clustering, dimensionality reduction, and anomaly detection techniques.
   
 
-# Prerequisites 
+## Prerequisites 
 
 - Basic understanding of Python and machine learning concepts.
 - Familiarity with Jupyter Notebook for running and editing the files.
 
-# Acknowledgments
+## Acknowledgments
 
 - Each folder contains topic-specific Jupyter notebooks and associated files.  
 - Notebooks are well-documented, showcasing both theory and implementation.
   
 This repository is part of my learning journey at IIT Kharagpur, and I thank the professors, mentors, and peers who guided me throughout the coursework.
 
-# Contributions
+## Contributions
 
 Contributions, suggestions, and feedback are welcome! Feel free to fork the repository and submit pull requests for improvements.
 
